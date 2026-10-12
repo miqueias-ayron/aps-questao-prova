@@ -1,0 +1,2 @@
+aigyminsper==0.3.9
+pygame==2.6.1
